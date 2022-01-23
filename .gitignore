@@ -1,0 +1,34 @@
+# folders
+.coverage_artifacts/
+.coverage_cache/
+.coverage_contracts/
+artifacts/@chainlink
+artifacts/@openzeppelin
+artifacts/build-info
+build/
+scripts/reference-scripts
+cache/
+coverage/
+dist/
+lib/
+node_modules/
+typechain/
+.parcel-cache/
+
+abi/
+artifacts/
+
+# files
+*.env
+*.log
+*.tsbuildinfo
+coverage.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.dbg.json
+
+# Dev
+/relayerTest
+./contracts/v2/Market.sol
+/notes.txt
